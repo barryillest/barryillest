@@ -78,13 +78,6 @@
 
 
 
-<h2 align="center">🔝 Top Contributed Repos</h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=barryillest&limit=5&theme=graywhite&combine_all_yearly_contributions=true"/>
-</p>
-
-
-
 <h2 align="center">💰 Support Me</h2>
 <p align="center">
   <a href="https://paypal.me/subtozhc">
