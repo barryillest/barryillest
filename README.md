@@ -4,6 +4,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
+
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-0b0b0b?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -56,7 +57,7 @@
   <img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -68,21 +69,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barryillest&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </p>
 
----
+
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
----
+
 
 <h2 align="center">🔝 Top Contributed Repos</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=barryillest&limit=5&theme=graywhite&combine_all_yearly_contributions=true"/>
 </p>
 
----
+
 
 <h2 align="center">💰 Support Me</h2>
 <p align="center">
@@ -91,6 +92,6 @@
   </a>
 </p>
 
----
 
-<p align="center"><sub>🖤 Crafted with focus & minimalism by <b>Barry Ortega</b></sub></p>
+
+<p align="center"><sub> Crafted with focus & minimalism by <b>Barry Ortega</b></sub></p>
