@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Barry</h1>
+<h1 align="center">👋 Hi, I'm Barry.</h1>
 <p align="center">A passionate developer exploring tech, design, and AI-driven solutions.</p>
 
 ---
@@ -47,12 +47,6 @@
 ### 🔝 Top Contributed Repos
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=barryillest&limit=5&theme=graywhite&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=barryillest&icon=4&color=0b0b0b"/>
 </p>
 
 ---
