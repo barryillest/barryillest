@@ -59,11 +59,12 @@
 
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barryillest&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=barryillest&theme=graywhite&hide_border=true" height="165"/>
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barryillest&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
