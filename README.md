@@ -29,11 +29,25 @@
   <img src="https://img.shields.io/badge/PostgreSQL-0b0b0b?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+<h3 align="center">🧠 AI & Machine Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-0b0b0b?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-0b0b0b?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0b0b0b?style=for-the-badge&logo=prometheus&logoColor=white"/>
+</p>
+
 <h3 align="center">🧩 Tools & Design</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-0b0b0b?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-0b0b0b?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-0b0b0b?style=for-the-badge&logo=powershell&logoColor=white"/>
+</p>
+
+<h3 align="center">🧑‍💻 IDE & Development Environment</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0b0b0b?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windsurf-0b0b0b?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-0b0b0b?style=for-the-badge&logo=cursor&logoColor=white"/>
 </p>
 
 <h3 align="center">⚡ Hardware & Version Control</h3>
