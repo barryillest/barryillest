@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Barry Ortega</h1>
+<h1 align="center">👋 Hi, I'm Barry</h1>
 <p align="center">A passionate developer exploring tech, design, and AI-driven solutions.</p>
 
 ---
@@ -75,4 +75,4 @@
 
 ---
 
-<p align="center"><sub>✨ Crafted with ❤️ by <b>Barry Ortega</b> — Powered by <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
+<p align="center"><sub>✨ Crafted with ❤️ by <b>Barry Ortega</b> 
