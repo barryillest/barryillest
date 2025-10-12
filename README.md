@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Barry.</h1>
 <p align="center">A passionate developer exploring tech, design, and AI-driven solutions.</p>
 
----
 
 <h2 align="center">💻 Tech Stack</h2>
 
