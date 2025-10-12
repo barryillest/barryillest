@@ -37,15 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barryillest&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barryillest&theme=flat&no-bg=true&margin-w=8&title_color=ffffff&text_color=ffffff"/>
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
