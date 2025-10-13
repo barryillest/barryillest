@@ -1,3 +1,10 @@
+<!-- Apply Poppins font globally -->
+<style>
+  * {
+    font-family: 'Poppins', sans-serif;
+  }
+</style>
+
 <h1 align="center">👋 Hi, I'm Barry.</h1>
 <p align="center">A passionate developer exploring tech, design, and AI-driven solutions.</p>
 
@@ -12,6 +19,7 @@
   <img src="https://img.shields.io/badge/JavaScript-0b0b0b?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-0b0b0b?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-0b0b0b?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-0b0b0b?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 <h3 align="center">⚙️ Backend</h3>
