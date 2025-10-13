@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Java-0b0b0b?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-0b0b0b?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-0b0b0b?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-0b0b0b?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 <h3 align="center">🗄️ Database</h3>
@@ -27,6 +28,7 @@
   <img src="https://img.shields.io/badge/MySQL-0b0b0b?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-0b0b0b?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0b0b0b?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-0b0b0b?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 <h3 align="center">🧠 AI & Machine Learning</h3>
@@ -65,8 +67,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=barryillest&theme=graywhite&hide_border=true" height="165"/>
 </p>
 -->
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barryillest&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
