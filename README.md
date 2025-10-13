@@ -1,10 +1,3 @@
-<!-- Apply Poppins font globally -->
-<style>
-  * {
-    font-family: 'Poppins', sans-serif;
-  }
-</style>
-
 <h1 align="center">👋 Hi, I'm Barry.</h1>
 <p align="center">A passionate developer exploring tech, design, and AI-driven solutions.</p>
 
